@@ -6,11 +6,15 @@ Dự án có gì hay?
 
   Phân loại tin nhắn tự động: Giúp bạn nhanh chóng nhận biết tin nhắn nào là rác.
   Xử lý văn bản chuẩn chỉnh:
+  
       Chuyển đổi từ thành số (tokenization) và làm đều độ dài tin nhắn (padding).
       Gắn nhãn ham là 0, spam là 1.
+      
   Mô hình học sâu:
+  
       Dùng lớp nhúng (embedding) để hiểu ý nghĩa từ.
       Lớp dense giúp dự đoán chính xác.
+      
   Dễ dùng: Chỉ cần gọi hàm là có thể kiểm tra tin nhắn.
 
 ### Ví dụ kết quả
